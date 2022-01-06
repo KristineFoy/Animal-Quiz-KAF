@@ -1,6 +1,6 @@
 # Title
 
-Animal Quiz
+Animal Quiz KAF
 
 ## Developer
 
@@ -8,10 +8,11 @@ Kristine Foy
 This is was a test of CSS,HTML and JavaScript skills learned to date.
 This added in timers, countdowns and Javascript to my developer skills. Also helped further CSS skills and HTML functions.
 I switched Var to Const in my code for personal preference.
+Local storage and second HTML page where to be applied as well.
 
 ### Development
 
-This game was developed to test your random animal knowledge on a timer.
+This game was developed to test your random animal knowledge on a timer. Store score to local storage and display socres on a second HTML page.
 
 #### How to play
 
@@ -59,7 +60,7 @@ The game is timed for 20 seconds, "Click" the start button to start game. Answer
 
     \\Looked up While loop information\\
 
-###### Link to deployed site
+###### Link to Deployed Appliaction
 
 <https://github.com/KristineFoy/Animal-Quiz-KAF>
 
