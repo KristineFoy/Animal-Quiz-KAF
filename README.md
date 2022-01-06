@@ -63,6 +63,7 @@ The game is timed for 20 seconds, "Click" the start button to start game. Answer
 ###### Link to Deployed Appliaction
 
 <https://github.com/KristineFoy/Animal-Quiz-KAF>
+<https://kristinefoy.github.io/Animal-Quiz-KAF/>
 
 ###### Screenshoot
 
