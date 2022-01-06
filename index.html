@@ -4,9 +4,38 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <title>Animal Quiz</title>
 </head>
+
 <body>
-    
+<div>
+    <header>
+        <h1 style="text-align: center;">Animal Quiz</h1>
+        <p> Test your animal knowledge. The game is timed, try your luck and save your high scores!</p>
+    </header>
+        <div class="countdown"><span id="timer"></span></div>
+
+    <div class="container">
+        <div id="question-container" class="hide">  
+          <div id="question">Question</div>
+            <div id= "answer-button" class="btn-grid">
+              <button class= "btn">Answer 1</button>
+              <button class= "btn">Answer 2</button>
+              <button class= "btn">Answer 3</button>
+              <button class= "btn">Answer 4</button>
+            </div>
+        </div>
+    </div>
+
+     <div class="controls">
+         <button id="start-btn" class="=start-btn btn">Start the quiz</button>
+         <button id="next-btn" class="=next-btn btn hide">Next</button>
+         <button id="score-btn" class="=score-btn btn hide">Scores</button>
+    </div>
+</div>
+
+    <script src="script.js"></script>
+
 </body>
 </html>
